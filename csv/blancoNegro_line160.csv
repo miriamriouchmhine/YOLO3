@@ -1,0 +1,6 @@
+Skip Frames,Confidence Config,Media,Factor_escala,Count In Real,Count Out Real,Count In Estimated,Count Out Estimated,Error In Abs,Error In Rel,Error Out Abs,Error Out Rel,Error Global
+5,0.1,45,0.022222222222222223,8,12,2,10,6,0.75,2,0.16666666666666666,0.4
+5,0.1,65,0.015384615384615385,8,12,1,12,7,0.875,0,0.0,0.35
+5,0.1,85,0.011764705882352941,8,12,6,12,2,0.25,0,0.0,0.1
+5,0.1,95,0.010526315789473684,8,12,5,12,3,0.375,0,0.0,0.15
+5,0.1,115,0.008695652173913044,8,12,3,12,5,0.625,0,0.0,0.25
